@@ -6,6 +6,7 @@ A Spring Boot Rest Api querying a MySQL database server.
 GET /home test-endpoint
 
 GET /courses return list of all courses
+
 GET /courses/{id} return a particular course by id
 
 POST /courses post a course 
